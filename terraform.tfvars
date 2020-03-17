@@ -1,0 +1,5 @@
+project = "kube-demo-2020"
+region       = "europe-west2"
+github_owner = "mmichel122"
+github_repository = "gcp-build-gke-deploy"
+branch_name = "master"
